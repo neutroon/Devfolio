@@ -1,0 +1,156 @@
+@keyframes typing {
+    6%{
+        content: "De";
+    }
+    8%{
+        content: "Des";
+    }
+    10%{
+        content: "Desi";
+    }
+    12%{
+        content: "Desig";
+    }
+    14%{
+        content: "Design";
+    }
+    16%{
+        content: "Designe";
+    }
+    18%{
+        content: "Designer";
+    }
+    20%{
+        content: "Designe";
+    }
+    22%{
+        content: "Design";
+    }
+    24%{
+        content: "Desig";
+    }
+    26%{
+        content: "Desi";
+    }
+    28%{
+        content: "Des";
+    }
+    30%{
+        content: "De";
+    }
+    32%{
+        content: "D";
+    }
+    34%{
+        content: "De";
+    }
+    36%{
+        content: "Dev";
+    }
+    38%{
+        content: "Deve";
+    }
+    40%{
+        content: "Devel";
+    }
+    42%{
+        content: "Develo";
+    }
+    44%{
+        content: "Develop";
+    }
+    46%{
+        content: "Develope";
+    }
+    48%{
+        content: "Developer";
+    }
+    50%{
+        content: "Develop";
+    }
+    52%{
+        content: "Develo";
+    }
+    54%{
+        content: "Devel";
+    }
+    56%{
+        content: "Deve";
+    }
+    58%{
+        content: "Dev";
+    }
+    60%{
+        content: "De";
+    }
+    62%{
+        content: "D";
+    }
+    64%{
+        content: "F";
+    }
+    66%{
+        content: "Fr";
+    }
+    68%{
+        content: "Fre";
+    }
+    70%{
+        content: "Free";
+    }
+    72%{
+        content: "Freel";
+    }
+    74%{
+        content: "Freela";
+    }
+    76%{
+        content: "Freelan";
+    }
+    78%{
+        content: "Freelanc";
+    }
+    80%{
+        content: "Freelance";
+    }
+    82%{
+        content: "Freelancer";
+    }
+    84%{
+        content: "Freelance";
+    }
+    86%{
+        content: "Freelanc";
+    }
+    88%{
+        content: "Freelan";
+    }
+    90%{
+        content: "Freela";
+    }
+    92%{
+        content: "Freel";
+    }
+    94%{
+        content: "Free";
+    }
+    96%{
+        content: "Fre";
+    }
+    98%{
+        content: "Fr";
+    }
+    100%{
+        content: "F";
+    }
+}
+
+
+@keyframes fade {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
